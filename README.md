@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 <div align=center> 
   <p>
-  <a href="https://www.notion.so/TIL-68c0c6ceaa6d455abf295bedc0afb959" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:tmdgus5611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jokw9250@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.notion.so/Kevin-s-Note-17a640d16aa540a7a2e32db28350b08e" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:jokw9250@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jokw9250@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/KevinJo-Keonwoo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
