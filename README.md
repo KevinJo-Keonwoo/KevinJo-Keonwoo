@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align=center> 
   <p>
   <a href="https://www.notion.so/Kevin-s-Note-17a640d16aa540a7a2e32db28350b08e" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -32,6 +31,5 @@
   <br>
   <img src="https://img.shields.io/badge/oracleSQL-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
   <br>
 </p>
