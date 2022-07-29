@@ -8,7 +8,7 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in Backend web development.<br/>
+  Hello. I am a new developer in Backend web development.<br/>
   I am working on it based on Java, Oracle SQL.<br/><br/>
   My goal as a developer is to solve all the challenges we face 👊 ✨ <br/><br/>
   
