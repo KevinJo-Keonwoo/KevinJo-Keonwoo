@@ -10,7 +10,6 @@
 <p>
   Hello. I am a new developer in Backend web development.<br/>
   I am working on it based on Java, Oracle SQL.<br/><br/>
-  My goal as a developer is to solve all the challenges we face 👊 ✨ <br/><br/>
   
   <h3>Experience </h3> <br/>
   HR manager in Etenrs Corporation for one and a half years <br/>
