@@ -4,10 +4,11 @@
   <a href="https://www.notion.so/Kevin-s-Note-17a640d16aa540a7a2e32db28350b08e" target="_blank"><img src="https://img.shields.io/badge/Kevin's Island-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
   <a href="https://www.notion.so/Kevin-s-Note-17a640d16aa540a7a2e32db28350b08e" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:jokw9250@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jokw9250@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/KevinJo-Keonwoo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <!-- <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/KevinJo-Keonwoo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
   
 </p>
 <p>
+  안녕하세요 :) 백엔드 개발자를 희망하는 조건우입니다. 
   Hello. I am a new developer in Backend web development.<br/>
   I am working on it based on Java, Oracle SQL.<br/><br/>
   
