@@ -8,7 +8,7 @@
   
 </p>
 <p>
-  안녕하세요 :) 백엔드 개발자를 희망하는 조건우입니다. <br/>
+  안녕하세요! 백엔드 개발자를 조건우입니다. <br/>
   Hello. I am a new developer in Backend web development.<br/>
   I am working on it based on Java, Oracle SQL.<br/><br/>
   
